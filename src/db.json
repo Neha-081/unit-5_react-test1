@@ -1,0 +1,37 @@
+{
+    "game":[
+        {
+            "gameauthor": "Respawn",
+"gameprice": "1299",
+"gametags": "FPS",
+"gamerating": "2.5",
+"gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+"gamename": "Titanfal",
+"forkids": true,
+"id": 1
+        },
+        {
+          "gameauthor": "Albert",
+"gameprice": "1500",
+"gametags": "LPN,NJK",
+"gamerating": "2",
+"gamedesc": "Mario is a series of video games that mainly feature first-person shooter games",
+"gamename": "Mario",
+"forkids": true,
+"id": 1
+      },
+      {
+        "gameauthor": "Robert",
+"gameprice": "1400",
+"gametags": "HNKK",
+"gamerating": "3",
+"gamedesc": "Ninja is a series of video games that mainly feature first-person shooter games",
+"gamename": "Ninja",
+"forkids": true,
+"id": 1
+    }
+      
+        
+        
+    ]
+}
